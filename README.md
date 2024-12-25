@@ -1,3 +1,5 @@
+![image](B-4.jpg)
+
 I checked the pre-trained dataset of the cellpose library, and found that the modality of this dataset is somewhat different (see cellpose.jpg), so I made two sets of methods, one based on the cellpose library and the other based on my own thinking.
 
 cellpose:
